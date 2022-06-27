@@ -1,0 +1,32 @@
+body{
+    color: brown;
+}
+
+#h4{
+    font-style: italic;
+}
+a{
+    font-style: italic;
+    font-size:x-large;
+    color: brown;
+    
+
+}
+
+.firstclass{
+    opacity:70%;
+    font-weight: lighter;
+}
+
+ul{
+    letter-spacing: 6px;
+}
+
+#secondid{
+    color: brown;
+}
+
+#i{
+    font-style: italic;
+}
+
